@@ -13,7 +13,7 @@ public class Ariketa14 {
 		int num1 =Integer.parseInt(entrada.nextLine());
 		int num2 =Integer.parseInt(entrada.nextLine());
 		int num3 =Integer.parseInt(entrada.nextLine());
-		
+		//ifififififfififi
 		//ififififififififif
 		if (num1>num2 && num2>num3) {
 			System.out.println("la cadena no es ascendente");
