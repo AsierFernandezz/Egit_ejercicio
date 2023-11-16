@@ -14,7 +14,7 @@ public class Ariketa14 {
 		int num2 =Integer.parseInt(entrada.nextLine());
 		int num3 =Integer.parseInt(entrada.nextLine());
 		
-		
+		//ififififififififif
 		if (num1>num2 && num2>num3) {
 			System.out.println("la cadena no es ascendente");
 		}else {
